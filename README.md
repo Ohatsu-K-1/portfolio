@@ -4,7 +4,11 @@
 ゲーム作品のソースコード&実行例動画はGooGleドライブにuploadしています↓
 https://drive.google.com/drive/folders/1sQna3ebewqGwGtufvq5Dfg4IgMWTy7Ou?usp=sharing
 
-# ファイル説明
-## 
+***
+### ファイル説明
+#### dbsImport.java
+csvファイルからSQLのimport文を生成します。
 
-##
+
+#### simulateFreeFall.java
+ルンゲクッタ法による、自由落下運動のシミュレーションをします。
